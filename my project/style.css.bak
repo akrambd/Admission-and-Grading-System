@@ -1,0 +1,29 @@
+*{margin:0px;padding:0px;}
+.boss{width:900px; margin: 0 auto;}
+.prothom{overflow:hidden; padding:25px 25px 0px;height:auto; background:black;border-bottom:5px solid green }
+.pro{ margin:auto;}
+.pro_left{float:left; padding: 0px;}
+.pro_left a{color:white;}
+.pro_right{float:right;}
+.sari{overflow:hidden;margin-top:50px;}
+.sari ul{margin:0px; padding:0px;list-style:none;}
+.sari ul li{display:inline}
+.sari ul li a{display:inline-block;color:white;text-decoration:none; padding:9px 40px 10px; border-radius: 3px 3px 3px;background: #000; }
+.sari ul li a:hover{background:green;}
+.fresh{padding:15px;background:#ccc;overflow:hidden; background-image::url('image/iubatf.jpg');background-repeat: no-repeat; background-size:cover;}
+.promo{background:black;overflow:hidden;}
+
+.fresh_f{float:right;width:400px; padding:50px 0;}
+.fresh_f a{display:inline-block;text-decoration:none;padding:6px 12px;background:#60880E;color:#fff;border-radius:3px 2px 2px ;}
+
+.second{overflow:hidden;}
+.mat{color:white;margin-left:15px;; width:190px;float:left;padding:15px 0; }
+.mat h3{ }
+.mat p{color:white;}
+.content{overflow:hidden;background:yellow;margin:0px 4px;}
+.content h1{color:red;}
+.con_left { float:left;}
+.con_left img{max-width:500px;}
+.con_right a {float:right; color:gray;overflow:hidden;padding:15px;width:200px;margin-left:55px;font-soze:50px;}
+.content_right ul{display:inline;text-decoration:none;}
+.content_right ul li{float:right;}

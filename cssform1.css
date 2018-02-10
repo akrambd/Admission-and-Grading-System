@@ -1,0 +1,77 @@
+
+  body{
+    width: 100%;
+    background-color: #ffffff;
+    
+  }
+  .form{
+    width: auto;
+   /* padding: 0 25% 0 25%;*/
+  }
+  h2{
+    text-align: center;
+  }
+  .fld{
+    padding-top: 30px;
+    background-color: #9cbdbf;
+
+    padding-left: 200px;
+    height:inherit;
+    width: 600px;
+  }
+  input[type=text] {
+    width: 160%;
+    padding: 12px 20px;
+    margin: 10px 0;
+    box-sizing: border-box;
+  }
+  input[type=date] {
+    width: 160%;
+    padding: 12px 20px;
+    margin: 10px 0;
+    box-sizing: border-box;
+  }
+  .submit-btn {
+    width: 9rem;
+    height: rem;
+    background-color: #f44336;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  .pre-class {
+    float: left;
+  }
+  .pre-class label {
+    display: block;
+  }
+  .pre-class select {
+    width: 8rem;
+    height: 2rem;
+  }
+  .pre-class option {
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+
+  .add-class label {
+    display: block;
+  }
+  .add-class select {
+    width: 8rem;
+    height: 2rem;
+  }
+  .add-class option {
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+
+  .add-class {
+    padding-left: 18.3rem;
+
+  }

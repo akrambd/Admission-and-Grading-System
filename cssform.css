@@ -1,0 +1,115 @@
+
+  body{
+    width: 100%;
+    background-color: #6e9a79;
+  }
+  .form{
+    width: auto;
+    padding: 0 25% 0 25%;
+  }
+  h2{
+    text-align: center;
+  }
+  .fld{
+    padding-top: 30px;
+    background-color: dimgray;
+
+    padding-left: 200px;
+    text-align:Copyright (c) 2016 Copyright Holder All Rights Reserved.;
+    height:inherit;
+    width: 600px;
+  }
+  input[type=text] {
+    width: 70%;
+    padding: 12px 20px;
+    margin: 10px 0;
+    box-sizing: border-box;
+  }
+  input[type=date] {
+    width: 70%;
+    padding: 12px 20px;
+    margin: 10px 0;
+    box-sizing: border-box;
+  }
+  .submit-btn {
+    width: 7rem;
+    height: 2rem;
+    background-color: #f44336;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  .pre-class {
+    float: left;
+  }
+  .pre-class label {
+    display: block;
+  }
+  .pre-class select {
+    width: 8rem;
+    height: 2rem;
+  }
+  .pre-class option {
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+
+  .add-class label {
+    display: block;
+  }
+  .add-class select {
+    width: 8rem;
+    height: 2rem;
+  }
+  .add-class option {
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+
+  .add-class {
+    padding-left: 18.3rem;
+
+  }
+
+
+
+
+
+
+
+
+
+
+/*teachers information*/
+
+.main{
+ 
+  margin-left: 5%;
+  width: 100%;
+}
+.main h2{
+  text-align: center;
+  padding-top: 20px;
+}
+
+div .font-awesome{
+  font-size: 14rem;
+}
+
+div .t1 {
+  text-align: center;
+  padding-bottom: 5rem;
+}
+
+.teacher-info {
+  width: 32%;
+  float: left;
+  margin: auto;
+  padding-bottom: 3rem;
+  padding-left: 17%;
+}

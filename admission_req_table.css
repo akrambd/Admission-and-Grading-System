@@ -1,0 +1,61 @@
+table {
+    border-collapse: collapse;
+    width: 46%;
+    float: none;
+    margin: auto;
+}
+
+th, td {
+    text-align: left;
+    padding: 6px;
+}
+
+tr:nth-child(1){background-color: #00a094}
+
+
+
+form{
+    width: 40%;
+    float: none;
+    margin: auto;
+}
+
+
+
+input {
+    position: relative;
+    background-color: #244643;
+    border: 1x;
+    font-size: 14px;
+    color: #ffffff;
+    padding: 16px;
+    width: 100px;
+
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+
+}
+
+input:after {
+    content: "";
+    background: #f1f1f1;
+    display: block;
+    position: absolute;
+    padding-top: 300%;
+    padding-left: 350%;
+    margin-left: -20px !important;
+    margin-top: -120%;
+    opacity: 0;
+    transition: all 0.8s
+}
+
+input:active:after {
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+    transition: 0s
+}
+
+

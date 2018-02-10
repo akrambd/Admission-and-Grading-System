@@ -1,0 +1,89 @@
+<html>
+<head>
+<title> first try website</title>
+<link rel="stylesheet" href="style.css"></link>
+<body>
+<div class="boss">
+	<div>
+		<div class="prothom">
+		
+			<div class="pro_left">
+			<a>Logo</a>
+			</div>
+			<div class="pro_right">
+			<form> <input type="text"></input></form></form>
+			</div>
+			
+			<div class="sari">
+				<ul>
+					<li><a href="">home</a></li>
+					<li><a href="">company</a></li>
+					<li><a href="">solution</a></li>
+					<li><a href="">schemas</a></li>
+					<li><a href="">contacts</a></li>
+				</ul>
+				
+			</div>
+		</div>
+		<div class="promo">
+			<div class="fresh">
+    
+					<div class="fresh_f">
+						<h1>Fresh Ideas<br> Growing<br> Your Business</h1>
+						<p>here something has that is not clear.for that rrason </p>
+						<a href="">Reed More</a>
+					</div>
+			</div>
+		
+		<div class="second">
+		
+		     <div class="mat">
+			<h3>consulting</h3>
+			<P>here something has that is not clear.for that rrason i cannot write that topics</P>
+			  </div>
+			<div class="mat">
+			<h3>Analysis</h3>
+			<P>here something has that is not clear.for that rrason i cannot write that topics</P>
+              </div>
+			<div class="mat">
+			<h3>Strategy</h3>
+			<P>here something has that is not clear.for that rrason i cannot write that topics</P>
+			  </div>
+			<div class="mat">
+			<h3>Service</h3>
+			<P>here something has that is not clear.for that rrason i cannot write that topics</P>
+			  </div>
+		    
+		  </div>
+	
+	   </div>
+	</div>
+	<div class="content">
+		<div class="content_left">
+		  <h1> welcome to our company</h1>
+		   <div class="con_left">
+			<img src="image/mehedy.jpg">
+			</div>
+			<div class="con_right">
+			<a> HI <br> I am Mehedy Hasan<br> you are invited to visit our company any day.</a>
+			</div>
+		   </div>
+			<p>ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff</p>
+		</div>
+		<div class="content_right">
+			<ul>
+				<li><a>menu</a></li>
+				<li><a>menu</a></li>
+				<li><a>menu</a></li>
+				<li><a>menu</a></li>
+			</ul>
+		
+		</div>
+		
+	
+	</div>
+</div>
+
+</body>
+</head>
+</html>
